@@ -1,2 +1,8 @@
 - 👋 Bonjour , je suis RaphMar2021
-- 👀 Je suis interesé dans le devloppement Visual Basic , le CSS et le HTML
+- 👀 Je suis interesé dans le devloppement :
+-      Visual Basic
+-      Java
+-      C#
+-      CSS
+-      HTML
+-      Python
