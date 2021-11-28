@@ -1,5 +1,5 @@
 - 👋 Bonjour , je suis RaphMar2021
-- 👀 Je suis interesé dans le devloppement :
+- 👀 Je suis interesé dans le developpement :
 -      Visual Basic
 -      Java
 -      C#
