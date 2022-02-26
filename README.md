@@ -1,8 +1,5 @@
-- 👋 Hello , i'm RaphMar2021
-- 👀 Im interessed in the
+ 👋 Hello , i'm RaphMar2021
+ 👀 Im interessed in the
 -      Visual Basic,
 -      Java,
--      C#,
--      CSS,
--      HTML,
--      Python developement.
+-      C# developement.
