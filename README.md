@@ -1,7 +1,4 @@
-Hello! I am a hobbyist developer, making some software in my free time :)
+Unfortunately, my projects are moving out of GitHub :(
 
-Most of my projects resides on my organisations.
-
-![Raphael's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=RaphProductions&show_icons=true&count_private=true&theme=gotham)
-
-
+The SILD Project now resides on [Piraterna's Forgejo instance](https://git.piraterna.org/raphm/), and is mirrored to [Codeberg](https://codeberg.org/sild/)
+As for my other projects, they can be found on [Codeberg](https://codeberg.org/raphm4044)
